@@ -25,5 +25,9 @@
     "url": "https://github.com/halilb/react-native-textinput-effects/issues"
   },
   "author": "Halil Bilir <hbilir@gmail.com>",
-  "homepage": "https://github.com/halilb/react-native-textinput-effects#readme"
+  "homepage": "https://github.com/halilb/react-native-textinput-effects#readme",
+  "peerDependencies": {
+    "react": "16.4.1",
+    "react-native": "0.56.0"
+  }
 }
